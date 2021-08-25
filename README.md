@@ -1,6 +1,6 @@
 ### Olá!! Me chamo Danilo Santos
 
-- 🔭 Trabalhando: Full Stack em www.2desetembro.com.br | needpanfletagem.com
+- 🔭 Trabalhando: Full Stack em www.2desetembro.com.br | www.needpanfletagem.com
 - :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/danilorennan/)
 
 <div>
