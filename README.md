@@ -1,6 +1,6 @@
 ### Olá!! Me chamo Danilo Santos
 
-- 🔭 Trabalhando: Full Stack em www.mundoinfantilstore.com.br
+- 🔭 Trabalhando: Full Stack em www.mundoinfantilstore.com.br | www.2desetembro.com.br
 - :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/danilorennan/)
 
 <div>
